@@ -1,0 +1,143 @@
+[
+        {
+                "name": "Product 3",
+                "email": "3@3.com",
+                "password": "333333Rsn@j",
+                "description": "This is product 3",
+                "phone": 1234567890,
+                "address": "123 Main St",
+                "location": "Patna, Bihar(India)"
+        },
+        {
+            "name": "Product 2",
+            "email": "2@2.com",
+            "password": "222222Rsn@j",
+            "description": "This is product 2",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+        },
+        {
+            
+            "name": "Product 1",
+            "email": "1@1.com",
+            "password": "111111Rsn@j",
+            "description": "This is product 1",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+        },
+        {
+            "name": "Product 4",
+            "email": "4@4.com",
+            "password": "444444Rsn@j",
+            "description": "This is product 4",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+        },
+        {
+            
+            "name": "Product 5",
+            "email": "5@5.com",
+            "password": "555555Rsn@j",
+            "description": "This is product 5",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+        },
+        {
+            
+            "name": "Product 6",
+            "email": "6@6.com",
+            "password": "666666Rsn@j",
+            "description": "This is product 6",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+
+        },
+        {
+            "name": "Product 7",
+            "email": "7@7.com",
+            "password": "777777Rsn@j",
+            "description": "This is product 7",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+        },
+        {
+            "name": "Product 8",
+            "email": "8@8.com",
+            "password": "888888Rsn@j",
+            "description": "This is product 8",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+
+        },
+        {
+            
+            "name": "Product 9",
+            "email": "9@9.com",
+            "password": "999999Rsn@j",
+            "description": "This is product 9",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+
+        },
+        {
+            
+            "name": "Product 10",
+            "email": "10@10.com",
+            "password": "101010Rsn@j",
+            "description": "This is product 10",
+            "phone": 1234567890,
+            "address": "123 Main St",
+            "location": "Patna, Bihar(India)"
+
+        },
+        {
+        "name": "Product 11",
+        "email": "11@11.com",
+        "password": "111111Rsn@j",
+        "description": "This is product 11",
+        "phone": 1234567890,
+        "address": "123 Main St",
+        "location": "Patna, Bihar(India)"
+
+        },
+        {
+            
+        "name": "Product 12",
+        "email": "12@12.com",
+        "password": "121212Rsn@j",
+        "description": "This is product 12",
+        "phone": 1234567890,
+        "address": "123 Main St",
+        "location": "Patna, Bihar(India)"
+
+        },
+        {
+        "name": "Product 13",
+        "email": "13@13.com",
+        "password": "131313Rsn@j",
+        "description": "This is product 13",
+        "phone": 1234567890,
+        "address": "123 Main St",
+        "location": "Patna, Bihar(India)"
+
+        },
+        {
+            
+        "name": "Product 14",
+        "email": "14@14.com",
+        "password": "141414Rsn@j",
+        "description": "This is product 14",
+        "phone": 1234567890,
+        "address": "123 Main St",
+        "location": "Patna, Bihar(India)"
+
+        }
+    ]
